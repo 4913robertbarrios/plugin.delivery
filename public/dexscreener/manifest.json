@@ -1,0 +1,17 @@
+{
+  "$schema": "https://plugin.delivery/schema.json",
+  "identifier": "dexscreener",
+  "openapi": "https://api.dexscreener.com/docs/openapi.json",
+  "meta": {
+    "avatar": "📈",
+    "title": "DexScreener",
+    "description": "Real-time DEX pair data, new listings, trending pairs across all chains",
+    "tags": [
+      "dex",
+      "prices",
+      "trading",
+      "pairs"
+    ]
+  },
+  "version": "1"
+}

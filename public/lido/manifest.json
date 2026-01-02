@@ -1,0 +1,17 @@
+{
+  "$schema": "https://plugin.delivery/schema.json",
+  "identifier": "lido",
+  "openapi": "https://eth-api.lido.fi/api/openapi.json",
+  "meta": {
+    "avatar": "🏝️",
+    "title": "Lido Staking",
+    "description": "Lido stETH staking rates and protocol statistics",
+    "tags": [
+      "lido",
+      "staking",
+      "eth",
+      "liquid-staking"
+    ]
+  },
+  "version": "1"
+}
